@@ -33,7 +33,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../../../../../Desktop/Code Blocks Projects/Roguelike42/main.cpp" />
+		<Unit filename="Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />
